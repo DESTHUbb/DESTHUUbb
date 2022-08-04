@@ -61,20 +61,7 @@
 
   <a href = "mailto:wagebo3208@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_white"></a>
   
-  
-<div> 
-  
-  ![Snake animation](https://github.com/DESTHUbb/DESTHUbb/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
-<!--START_SECTION:waka-->
-<h2 align='left'><i>Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=DESTHUbb=00d13b&theme=react-dark&area=true&hide_border=true" width="100%" height="400">
-</a>
-</p>
 <h3 align="center">
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DESTHUbb&theme=blue-green&hide_border=true&background=#0d1117&currStreakNum=00DD24">
 </h3>
