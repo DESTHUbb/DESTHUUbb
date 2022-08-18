@@ -81,7 +81,7 @@
   
   <tr>
         <td  align="center">
-        <details open><summary>Classic charts</summary><img alt="" width="600" src="https://github.com/DESTHUbb/DESTHUbb/metrics.plugin.stargazers.svg" alt=""></img></details>
+        <details open><summary>Classic charts</summary><img alt="" width="600" src="https://github.com/DESTHUbb/metrics/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>
         <details><summary>Chartist charts</summary><img alt="" width="600" src="https://github.com/DESTHUbb/metrics/blob/examples/metrics.plugin.stargazers.chartist.svg" alt=""></img></details>
         <details open><summary>Worldmap</summary><img alt="" width="600" src="https://github.com/DESTHUbb/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
