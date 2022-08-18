@@ -65,3 +65,25 @@
 <h3 align="center">
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DESTHUbb&theme=blue-green&hide_border=true&background=#0d1117&currStreakNum=00DD24">
 </h3>
+
+## 📊 Stats
+
+  <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
+  </tr>
+  <tr>
+        <td  align="center">
+        <details open><summary>Full year calendar</summary><img alt="" width="1000" src="https://github.com/DESTHUbb/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+        <details><summary>Half year calendar</summary><img alt="" width="800" src="https://github.com/DESTHUbb/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+ 
+ ## ✨ Stargazers
+  
+  <tr>
+        <td  align="center">
+        <details open><summary>Classic charts</summary><img alt="" width="600" src="https://github.com/DESTHUbb/DESTHUbb/metrics.plugin.stargazers.svg" alt=""></img></details>
+        <details><summary>Chartist charts</summary><img alt="" width="600" src="https://github.com/DESTHUbb/metrics/blob/examples/metrics.plugin.stargazers.chartist.svg" alt=""></img></details>
+        <details open><summary>Worldmap</summary><img alt="" width="600" src="https://github.com/DESTHUbb/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+ 
