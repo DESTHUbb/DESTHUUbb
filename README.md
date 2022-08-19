@@ -3,6 +3,12 @@
 <h3 align="left">
   👋 Welcome to DESTHUbb profile!
 </h3>
+
+</div>
+  <p align="left"> 
+  <img src="https://profile-counter.glitch.me/ DESTHUbb/count.svg" />
+</p>
+
 ➡️ if i show up:
 
   print("My name is Alex")
