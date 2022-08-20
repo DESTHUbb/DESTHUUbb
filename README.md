@@ -74,6 +74,6 @@
 
 <div align="center">
 
-![cotulemre-retro (1)](https://user-images.githubusercontent.com/90658763/185743038-f911e433-39e0-4f5b-b5fa-1c77180b0df6.gif)
+![cotulemre-retro (2)](https://user-images.githubusercontent.com/90658763/185743139-ff92651a-f727-4bd1-be2f-1ae318d62e98.gif)
 
 </div>
