@@ -1,8 +1,15 @@
-<h1 align="left">BIO</h1>
+<h1 align="left">BIO
 
-<h3 align="left">
+<div align="left">
+	
+![retrocountachsun (1)](https://user-images.githubusercontent.com/90658763/185750255-5806f6a4-d2df-487c-aaf7-e4f2c6068e9e.gif)
+
+</div>
+
+</h1>	
+<h2 align="left">
   👋 Welcome to DESTHUbb profile!
-</h3>
+</h2>
 
 </div>
   <p align="left"> 
