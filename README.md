@@ -72,5 +72,8 @@
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DESTHUbb&theme=blue-green&hide_border=true&background=#0d1117&currStreakNum=00DD24">
 </h3>
 
-  
+<div align="center">
 
+![cotulemre-retro (1)](https://user-images.githubusercontent.com/90658763/185743038-f911e433-39e0-4f5b-b5fa-1c77180b0df6.gif)
+
+</div>
