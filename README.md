@@ -43,7 +43,7 @@
 
 </div>
 
-## 💻👨‍💻⌨️️ Tools
+## 💻👨‍💻⌨️️ computer tools
 
 <div style="display: inline_block"><br>
 
