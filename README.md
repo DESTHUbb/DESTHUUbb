@@ -1,4 +1,6 @@
-<h1 align="left">BIO
+<h1 align="left" color: green; >
+BIO
+</h1>
 
 <div align="left">
 	
