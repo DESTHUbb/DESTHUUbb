@@ -76,7 +76,7 @@
   
   
 <h3 align="center">
-	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DESTHUbb&theme=blue-green&hide_border=true&background=#0d1117&currStreakNum=00DD24">
+	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DESTHUbb&theme=midnight-purple&hide_border=true&background=#0d1117&currStreakNum=00DD24">
 </h3>
 
 <div align="center">
