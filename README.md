@@ -87,6 +87,12 @@
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DESTHUbb&theme=midnight-purple&hide_border=true&background=#0d1117&currStreakNum=00DD24">
 </h3></br>
 
+<h3 align="center">
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DESTHUbb&theme=synthwave-84)](https://github.com/DESTHUbb/github-readme-activity-graph)
+
+</h3></br>
+
 <div align="center">
 
 ![cotulemre-retro](https://user-images.githubusercontent.com/90658763/185743139-ff92651a-f727-4bd1-be2f-1ae318d62e98.gif)
