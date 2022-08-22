@@ -89,7 +89,7 @@
 
 <h3 align="center">
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DESTHUbb&theme=synthwave-84)](https://github.com/DESTHUbb/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DESTHUbb&theme=synthwave-84)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </h3></br>
 
