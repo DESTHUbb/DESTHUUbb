@@ -68,7 +68,11 @@
   
 </div></br>
 
+<div align="center">
+
 ![MCNED2Kmetesploit](https://user-images.githubusercontent.com/90658763/182873994-43e838ce-074e-445a-ba7b-415faf01ef3d.gif)
+
+</div></br>
 
   <a href="https://discord.gg/Destikaa17 #0642" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
@@ -77,10 +81,9 @@
   
 <h3 align="center">
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DESTHUbb&theme=midnight-purple&hide_border=true&background=#0d1117&currStreakNum=00DD24">
-</h3>
+</h3></br>
 
 <div align="center">
 
-![cotulemre-retro (2)](https://user-images.githubusercontent.com/90658763/185743139-ff92651a-f727-4bd1-be2f-1ae318d62e98.gif)
+![cotulemre-retro](https://user-images.githubusercontent.com/90658763/185743139-ff92651a-f727-4bd1-be2f-1ae318d62e98.gif)
 
-</div>
