@@ -84,13 +84,11 @@
   
   
 <h3 align="center">
-	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DESTHUbb&theme=midnight-purple&hide_border=true&background=#0d1117&currStreakNum=00DD24">
-</h3></br>
-
-<h3 align="center">
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DESTHUbb&theme=chartreuse-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
+  
+<h3 align="center">
+	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DESTHUbb&theme=midnight-purple&hide_border=true&background=#0d1117&currStreakNum=00DD24">
 </h3></br>
 
 <div align="center">
