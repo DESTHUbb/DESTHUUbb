@@ -87,7 +87,7 @@ BIO
   
 <h3 align="center">
 
-[![Alex's github activity graph](https://activity-graph.herokuapp.com/graph?username=DESTHUbb&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alex's github activity graph](https://activity-graph.herokuapp.com/graph?username=DESTHUbb&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/DESTHUbb/github-readme-activity-graph)
 	
 </h3>
   
