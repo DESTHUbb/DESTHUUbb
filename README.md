@@ -84,13 +84,6 @@ BIO
 
 <a href="mailto:wagebo3208@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_white"></a>
   
-  
-<h3 align="center">
-
-[![Alex's github activity graph](https://activity-graph.herokuapp.com/graph?username=DESTHUbb&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/DESTHUbb/github-readme-activity-graph)
-	
-</h3>
-  
 <h3 align="center">
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DESTHUbb&theme=midnight-purple&hide_border=true&background=#0d1117&currStreakNum=00DD24">
 </h3></br>
