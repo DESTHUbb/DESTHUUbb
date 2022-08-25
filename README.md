@@ -9,11 +9,12 @@ BIO
 </div>
 
 </h1>	
-<h2 align="left">
-  👋 Welcome to DESTHUbb profile!
-</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=C33800&background=FF413C00&width=435&lines=+%F0%9F%91%8B+Welcome+to+DESTHUbb+profile!)](https://git.io/typing-svg)
+<h2 align="left">
+	
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=script&size=25&duration=3000&pause=2000&color=E42614&background=FF413C00&width=435&lines=+%F0%9F%91%8B+Welcome+to+DESTHUbb+profile!)](https://git.io/typing-svg)
+	
+</h2>
 
 </div>
   <p align="left"> 
