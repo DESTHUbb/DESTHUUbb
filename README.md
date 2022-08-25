@@ -84,7 +84,7 @@ BIO
 
 <a href="mailto:wagebo3208@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_white"></a>
 
-[![Alex's github activity graph](https://activity-graph.herokuapp.com/graph?username=DESTHUbb&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alex's github activity graph](https://activity-graph.herokuapp.com/graph?username=DESTHUbb&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
 <h3 align="center">
