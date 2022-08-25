@@ -12,7 +12,7 @@ BIO
 
 <h2 align="left">
 	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=script&size=25&duration=3000&pause=2000&color=E42614&background=FF413C00&width=435&lines=+%F0%9F%91%8B+Welcome+to+DESTHUbb+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=script&size=25&duration=3000&pause=2000&color=E42614&background=FF413C00&width=435&lines=+%F0%9F%91%8B+𝗪𝗲𝗹𝗰𝗼𝗺𝗲+𝘁𝗼+𝗗𝗘𝗦𝗧𝗛𝗨𝗯𝗯+𝗽𝗿𝗼𝗳𝗶𝗹𝗲!)](https://git.io/typing-svg)
 	
 </h2>
 
