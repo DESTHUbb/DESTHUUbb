@@ -55,7 +55,7 @@ BIO
 
 </div>
 
-## 💻👨‍💻⌨️️ computer technologies
+# 💻👨‍💻⌨️️ L̦͙͍a̢̡n̦̝g̟͓u̢͇͓a̠͇͕g͎̝͖e̢͕͖s͍͍͔ a̺͉͍n͇͎̻d̡̙͜ T͇̞̼o͙̫͕o̙̦̫l̙͚s͖̺͎
 
 <div style="display: inline_block"><br>
 
