@@ -67,7 +67,8 @@ BIO
 
   <img align="center" alt="Rafa-Python" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img align="center" alt="Rafa-Csharp" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+          
 
  <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   
