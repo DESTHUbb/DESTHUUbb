@@ -49,7 +49,7 @@ BIO
   
   <a href="https://github.com/DESTHUbb">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DESTHUbb&show_icons=true&theme=outrun&include_all_commits=true&count_public=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DESTHUbb&show_icons=true&theme=blue-green&include_all_commits=true&count_public=true"/>
   
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESTHUbb&layout=compact&langs_count=7&theme=aura"/>
 
