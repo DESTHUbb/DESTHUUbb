@@ -55,7 +55,12 @@ BIO
 
 </div>
 
-# 💻👨‍💻⌨️️ L̦͙͍a̢̡n̦̝g̟͓u̢͇͓a̠͇͕g͎̝͖e̢͕͖s͍͍͔ a̺͉͍n͇͎̻d̡̙͜ T͇̞̼o͙̫͕o̙̦̫l̙͚s͖̺͎
+<p align='right'>
+
+# 💻👨‍💻⌨️️ L̦͙͍a̢̡n̦̝g̟͓u̢͇͓a̠͇͕g͎̝͖e̢͕͖s͍͍͔ a̺͉͍n͇͎̻d̡̙͜ T͇̞̼o͙̫͕o̙̦̫l̙͚s͖̺͎ <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+<p align='right'>
+
 
 <div style="display: inline_block"><br>
 
@@ -102,4 +107,3 @@ BIO
 <div align="center">
 
 ![cotulemre-retro](https://user-images.githubusercontent.com/90658763/185743139-ff92651a-f727-4bd1-be2f-1ae318d62e98.gif)
-
