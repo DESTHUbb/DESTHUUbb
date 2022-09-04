@@ -51,7 +51,7 @@ BIO
 
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DESTHUbb&show_icons=true&theme=blue-green"/>
   
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESTHUbb&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESTHUbb&layout=compact&langs_count=7&theme=nightowl"/>
 
 </div>
 
