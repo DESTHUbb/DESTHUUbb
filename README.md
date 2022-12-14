@@ -89,9 +89,8 @@ BIO
 
 </div>
 
-[![Alex's github activity graph](https://activity-graph.herokuapp.com/graph?username=DESTHUbb&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  
+ [![DESTHUbb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DESTHUbb&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 <h3 align="center">
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DESTHUbb&theme=midnight-purple&hide_border=true&background=#0d1117&currStreakNum=00DD24">	
 </h3></br>
