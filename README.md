@@ -37,7 +37,7 @@ BIO
 
  print("🐲Python, c++ and java")
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+🐲+Python,+Java+and+C ++)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+🐲+Python+c++and+java)](https://git.io/typing-svg)
 
 ➡️if cybersecurity activities:
  
