@@ -22,9 +22,9 @@ BIO
 </p>
 
 ``` python
-➡️i show up = true
-➡️ if i show up:
-	 print("My name is Alex")
+➡1i show up = true
+➡2 if i show up:
+	 3 print("My name is Alex")
   
   ``` 
   
