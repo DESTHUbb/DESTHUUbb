@@ -46,12 +46,7 @@ BIO
 ➡️if cybersecurity activities:
  
  	➡️print("👨🏾‍💻Sometimes I work with exploits to find and report bugs👨🏾‍💻")
- 
-➡️motivation = True
 
-➡️if motivation:
-    
-   	➡️print("I am an enthusiastic researcher and programmer")
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+👨🏾‍💻+Sometimes+I+work+with+exploits+to+find+and+report+bugs👨🏾‍💻)](https://git.io/typing-svg)
