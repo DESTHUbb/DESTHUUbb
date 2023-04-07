@@ -41,9 +41,9 @@ BIO
 
 ➡️if cybersecurity activities:
  
- print("👨‍💻Sometimes I work with exploits to find and report bugs👨‍💻")
+ print("👨🏾‍💻Sometimes I work with exploits to find and report bugs👨🏾‍💻")
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+👨‍💻+Sometimes+I+work+with+exploits+to+find+and+report+bugs👨‍💻)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+👨🏾‍💻+Sometimes+I+work+with+exploits+to+find+and+report+bugs👨🏾‍💻)](https://git.io/typing-svg)
 
 <div align="center">
   
@@ -57,7 +57,7 @@ BIO
 	
 <p align='right'>
 
-# 💻👨‍💻⌨️️ L̦͙͍a̢̡n̦̝g̟͓u̢͇͓a̠͇͕g͎̝͖e̢͕͖s͍͍͔ a̺͉͍n͇͎̻d̡̙͜ T͇̞̼o͙̫͕o̙̦̫l̙͚s͖̺͎ <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+# 💻👨🏾‍💻⌨️️ L̦͙͍a̢̡n̦̝g̟͓u̢͇͓a̠͇͕g͎̝͖e̢͕͖s͍͍͔ a̺͉͍n͇͎̻d̡̙͜ T͇̞̼o͙̫͕o̙̦̫l̙͚s͖̺͎ <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <p align='right'>
 
