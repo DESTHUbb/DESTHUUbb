@@ -73,7 +73,7 @@ BIO
 	
 <p align='right'>
 
-# 💻👨🏾‍💻⌨️️ L̦͙͍a̢̡n̦̝g̟͓u̢͇͓a̠͇͕g͎̝͖e̢͕͖s͍͍͔ a̺͉͍n͇͎̻d̡̙͜ T͇̞̼o͙̫͕o̙̦̫l̙͚s͖̺͎ <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+# 💻👨🏾‍💻⌨️️ L̙͕͚a͚̝͔n͓͎͜g̞͍͙u͔͙͎a̻̼͙g̡̫͔e̡̝̼s̢̢̙ ​​&̦͚̺ s̙͔͍h̫̦͓e̟͖͔l̘͚l̡̞s͉͖͎<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <p align='right'>
 
