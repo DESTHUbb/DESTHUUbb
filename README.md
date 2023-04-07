@@ -26,12 +26,13 @@ BIO
   print("My name is Alex")
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+My+name+is+Alex.)](https://git.io/typing-svg)
-  
+ 
+ ``` python
 ➡️motivation = True
-
 ➡️if motivation:
-    
-   	➡️print("I am an enthusiastic researcher and programmer")
+	➡️print("I am an enthusiastic researcher and programmer")
+	
+``` 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+I+am+an+enthusiastic,+researcher+and+programmer.)](https://git.io/typing-svg)
 
