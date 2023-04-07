@@ -41,9 +41,11 @@ BIO
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+🐲+Python+c++and+java)](https://git.io/typing-svg)
 
+➡️if cybersecurity activities = true
+
 ➡️if cybersecurity activities:
  
- print("👨🏾‍💻Sometimes I work with exploits to find and report bugs👨🏾‍💻")
+ 	➡️print("👨🏾‍💻Sometimes I work with exploits to find and report bugs👨🏾‍💻")
  
  motivation = True
 
