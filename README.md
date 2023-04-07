@@ -22,8 +22,8 @@ BIO
 </p>
 
 ``` python
-➡1i show up = true
-➡2 if i show up:
+1 i show up = true
+2 if i show up:
 	 3 print("My name is Alex")
   
   ``` 
@@ -31,9 +31,9 @@ BIO
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+My+name+is+Alex.)](https://git.io/typing-svg)
  
  ``` python
-➡️motivation = True
-➡️if motivation:
-	➡️print("I am an enthusiastic researcher and programmer")
+1 motivation = True
+2 if motivation:
+	3 print("I am an enthusiastic researcher and programmer")
 	
 ``` 
 
