@@ -21,9 +21,12 @@ BIO
   <img src="https://profile-counter.glitch.me/ DESTHUbb/count.svg" />
 </p>
 
+``` python
+➡️i show up = true
 ➡️ if i show up:
-
-  print("My name is Alex")
+	 print("My name is Alex")
+  
+  ``` 
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+My+name+is+Alex.)](https://git.io/typing-svg)
  
