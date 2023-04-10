@@ -96,14 +96,14 @@ BIO
  
 	
  <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
- <img  align="right" alt="Rafa-Csharp" height="100" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
- <img  align="right" alt="Rafa-Csharp" height="100" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+ <img  align="right" alt="Rafa-Csharp" height="200" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
+ <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
  
 
   
 </div></br>
 
-<div align="center" height="300" width="600">
+<div align="center">
 
 ![MCNED2Kmetesploit](https://user-images.githubusercontent.com/90658763/182873994-43e838ce-074e-445a-ba7b-415faf01ef3d.gif)
 
