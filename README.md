@@ -10,11 +10,11 @@ BIO
 
 </h1>	
 
-<h2 align="left">
+<h1 align="left">
 	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=script&size=25&duration=3000&pause=2000&color=E42614&background=FF413C00&width=435&lines=+%F0%9F%91%8B+𝗪𝗲𝗹𝗰𝗼𝗺𝗲+𝘁𝗼+𝗗𝗘𝗦𝗧𝗛𝗨𝗯𝗯+𝗽𝗿𝗼𝗳𝗶𝗹𝗲!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=1020&color=FF0600&background=0D291500&width=450&lines=%F0%9F%91%8B%F0%9D%97%AA%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B2+%F0%9D%98%81%F0%9D%97%BC+%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%A8%F0%9D%97%AF%F0%9D%97%AF+%F0%9D%97%BD%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B2;%F0%9F%91%8BBienvenid%40s++al+perfil+de+%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%A8%F0%9D%97%AF%F0%9D%97%AF+;%F0%9F%91%8B%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%AE%80%E4%BB%8B%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%A8%F0%9D%97%AF%F0%9D%97%AF;%F0%9F%91%8B%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%A8%F0%9D%97%AF%F0%9D%97%AF+%E0%A4%95%E0%A5%80+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%AB%E0%A4%BE%E0%A4%87%E0%A4%B2+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%AA%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%97%E0%A4%A4+%E0%A4%B9%E0%A5%88)](https://git.io/typing-svg)
 	
-</h2>
+</h1>
 
 </div>
   <p align="left"> 
