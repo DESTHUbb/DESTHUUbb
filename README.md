@@ -99,10 +99,9 @@ BIO
 	
 	
 #  🅾🆂 🅰🅽🅳 🅳🅸🆂🆃🆁🅾🆂
- 
- <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
- <img  align="left" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
  <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+ <img  align="left" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+ <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
  <img  align="right" alt="Rafa-Csharp" height="300" width="400" src="https://user-images.githubusercontent.com/90658763/230899326-c9d537b0-ce39-4584-8ff7-cc9f654c8a91.png">
   
 </div></br>
