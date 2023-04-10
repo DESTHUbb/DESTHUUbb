@@ -4,6 +4,8 @@ BIO
 
 <div align="left">
 	
+![retrocountachsun (1)](https://user-images.githubusercontent.com/90658763/230962083-b259c022-aafa-428e-8c05-411b8a7703eb.gif)
+	
 </div>
 
 </h1>	
@@ -18,8 +20,6 @@ BIO
   <p align="left"> 
   <img src="https://profile-counter.glitch.me/ DESTHUbb/count.svg" />
 	
-	
-	![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 </p>
 
 ``` python
