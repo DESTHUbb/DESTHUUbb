@@ -93,21 +93,19 @@ BIO
   <img align="center" alt="Rafa-Csharp" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 	
   <img align="center" alt="Rafa-Csharp" height="90" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
- 
 	
- <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
- <img  align="right" alt="Rafa-Csharp" height="200" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
- <img  align="right" alt="Rafa-Csharp" height="200" width="500" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+	
+#  🅾🆂 🅰🅽🅳 🅳🅸🆂🆃🆁🅾🆂
  
+ <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
+ <img  align="left" alt="Rafa-Csharp" height="250" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+ <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+ 
+![image](https://user-images.githubusercontent.com/90658763/230899326-c9d537b0-ce39-4584-8ff7-cc9f654c8a91.png)
 
   
 </div></br>
 
-<div align="center">
-
-![MCNED2Kmetesploit](https://user-images.githubusercontent.com/90658763/182873994-43e838ce-074e-445a-ba7b-415faf01ef3d.gif)
-
-</div>
 
  [![DESTHUbb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DESTHUbb&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
