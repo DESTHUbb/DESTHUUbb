@@ -97,7 +97,7 @@ BIO
 	
  <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
  <img  align="right" alt="Rafa-Csharp" height="200" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
- <img  align="right" alt="Rafa-Csharp" height="200" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+ <img  align="right" alt="Rafa-Csharp" height="200" width="500" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
  
 
   
