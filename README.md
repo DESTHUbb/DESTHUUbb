@@ -108,9 +108,6 @@ BIO
 
 # <img src="https://user-images.githubusercontent.com/90658763/231517784-af45eea8-0116-421d-bf6d-9775d488a34f.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
-# <img src="https://user-images.githubusercontent.com/90658763/231516276-c7ce2b37-7fab-4a93-8b3b-c933bd75606c.gif" width="1" height="1" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-# <img src="https://user-images.githubusercontent.com/90658763/231516276-c7ce2b37-7fab-4a93-8b3b-c933bd75606c.gif" width="1" height="1" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-# <img src="https://user-images.githubusercontent.com/90658763/231516276-c7ce2b37-7fab-4a93-8b3b-c933bd75606c.gif" width="1" height="1" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 #  Activity graph <img src="https://user-images.githubusercontent.com/90658763/231512878-42d7b479-60cf-45d5-b9b6-2d3239bd10f3.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 	
