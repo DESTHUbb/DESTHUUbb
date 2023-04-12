@@ -108,9 +108,8 @@ BIO
 
 # <img src="https://user-images.githubusercontent.com/90658763/231517784-af45eea8-0116-421d-bf6d-9775d488a34f.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
-#  Activity graph <img src="https://user-images.githubusercontent.com/90658763/231512878-42d7b479-60cf-45d5-b9b6-2d3239bd10f3.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+#  Activity graph <img src="https://user-images.githubusercontent.com/90658763/231519284-e9f84446-1ef3-4be9-9813-303976c57317.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
-	
 
  [![DESTHUbb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DESTHUbb&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 	
