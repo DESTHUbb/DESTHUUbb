@@ -102,11 +102,12 @@ BIO
  <img  align="left" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
  <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
  <img  align="left" alt="Rafa-Csharp" height="200" width="400" src="https://user-images.githubusercontent.com/90658763/231516276-c7ce2b37-7fab-4a93-8b3b-c933bd75606c.gif">
-  
+ 
+  <img  align="left" alt="Rafa-Csharp" height="200" width="400" src="https://user-images.githubusercontent.com/90658763/231517784-af45eea8-0116-421d-bf6d-9775d488a34f.gif">
 </div></br>
 
 
-# <img src="https://user-images.githubusercontent.com/90658763/231517784-af45eea8-0116-421d-bf6d-9775d488a34f.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+# <img src="https://user-images.githubusercontent.com/90658763/231517784-af45eea8-0116-421d-bf6d-9775d488a34f.gif" width="200" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 #  Activity graph <img src="https://user-images.githubusercontent.com/90658763/231519284-e9f84446-1ef3-4be9-9813-303976c57317.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
