@@ -101,12 +101,22 @@ BIO
  <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
  <img  align="left" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
  <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
- <img  align="right" alt="Rafa-Csharp" height="300" width="400" src="https://user-images.githubusercontent.com/90658763/230899326-c9d537b0-ce39-4584-8ff7-cc9f654c8a91.png">
+ <img  align="left" alt="Rafa-Csharp" height="200" width="400" src="https://user-images.githubusercontent.com/90658763/231516276-c7ce2b37-7fab-4a93-8b3b-c933bd75606c.gif">
   
 </div></br>
 
 
+# <img src="https://user-images.githubusercontent.com/90658763/231517784-af45eea8-0116-421d-bf6d-9775d488a34f.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+# <img src="https://user-images.githubusercontent.com/90658763/231516276-c7ce2b37-7fab-4a93-8b3b-c933bd75606c.gif" width="1" height="1" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+# <img src="https://user-images.githubusercontent.com/90658763/231516276-c7ce2b37-7fab-4a93-8b3b-c933bd75606c.gif" width="1" height="1" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+# <img src="https://user-images.githubusercontent.com/90658763/231516276-c7ce2b37-7fab-4a93-8b3b-c933bd75606c.gif" width="1" height="1" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+#  Activity graph <img src="https://user-images.githubusercontent.com/90658763/231512878-42d7b479-60cf-45d5-b9b6-2d3239bd10f3.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+	
+
  [![DESTHUbb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DESTHUbb&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+	
  
 <h3 align="center">
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DESTHUbb&theme=midnight-purple&hide_border=true&background=#0d1117&currStreakNum=00DD24">	
