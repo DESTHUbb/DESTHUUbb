@@ -67,7 +67,6 @@ BIO
   <a href="https://github.com/DESTHUbb">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DESTHUbb&layout=compact&langs_count=7&theme=aura"/>
 	  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESTHUbb&layout=compact&langs_count=7&theme=aura"/>  
 
 	  
 </div>
