@@ -62,12 +62,15 @@ BIO
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+👨🏾‍💻+Sometimes+I+work+with+exploits+to+find+and+report+bugs👨🏾‍💻)](https://git.io/typing-svg)
 
+
 <div align="center">
   
   <a href="https://github.com/DESTHUbb">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DESTHUbb&layout=compact&langs_count=7&theme=aura"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DESTHUbb&layout=compact&langs_count=7&theme=aura"/>
 	  
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESTHUbb&layout=compact"/>
 
+	
 	  
 </div>
 	
