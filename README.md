@@ -105,7 +105,7 @@ BIO
  <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
  <img  align="center" alt="Rafa-Csharp" height="300" width="300" src="https://user-images.githubusercontent.com/90658763/231516276-c7ce2b37-7fab-4a93-8b3b-c933bd75606c.gif">
  
-  <img  align="center" alt="Rafa-Csharp" height="200" width="200" src="https://user-images.githubusercontent.com/90658763/231517784-af45eea8-0116-421d-bf6d-9775d488a34f.gif">
+  <img  align="left" alt="Rafa-Csharp" height="200" width="200" src="https://user-images.githubusercontent.com/90658763/231517784-af45eea8-0116-421d-bf6d-9775d488a34f.gif">
   
  
 </div></br>
