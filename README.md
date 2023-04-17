@@ -23,9 +23,9 @@ BIO
 </p>
 
 ``` python
-I_show_up = True
+I_introduce_myself= True
 
-if I_show_up:
+if I_introduce_myself:
     print("My name is Alex")
   
   ``` 
