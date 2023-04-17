@@ -52,11 +52,9 @@ if programming_language:
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+🐲+Python+c++and+java)](https://git.io/typing-svg)
  
  ``` python
-
-1 cybersecurity activities = True
-
-2 if cybersecurity activities:
- 	3 print("👨🏾‍💻Sometimes I work with exploits to find and report bugs👨🏾‍💻")
+cybersecurity_activities = True
+if cybersecurity_activities:
+ 	      print("👨🏾‍💻Sometimes I work with exploits to find and report bugs👨🏾‍💻")
 ```
 
 
