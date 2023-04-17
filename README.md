@@ -33,10 +33,10 @@ if I_show_up:
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+My+name+is+Alex.)](https://git.io/typing-svg)
  
  ``` python
-1 motivation = True
+motivation = True
 
-2 if motivation:
-	3 print("I am an enthusiastic researcher and programmer")
+if motivation:
+	print("I am an enthusiastic researcher and programmer")
 	
 ``` 
 
