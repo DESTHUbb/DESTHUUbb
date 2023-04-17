@@ -23,10 +23,10 @@ BIO
 </p>
 
 ``` python
-1 I show up = True
+I_show_up = True
 
-2 if I show up:
-	 3 print("My name is Alex")
+if I_show_up:
+    print("My name is Alex")
   
   ``` 
   
