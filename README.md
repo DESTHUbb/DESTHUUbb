@@ -53,7 +53,7 @@ BIO
  
  ``` python
 
-1 if cybersecurity activities = true
+1 if cybersecurity activities = True
 
 2 if cybersecurity activities:
  	3 print("👨🏾‍💻Sometimes I work with exploits to find and report bugs👨🏾‍💻")
