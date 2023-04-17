@@ -42,10 +42,10 @@ if motivation:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+I+am+an+enthusiastic,+researcher+and+programmer.)](https://git.io/typing-svg)
 ``` python
-1 programming language = True
+programming_language = True
 
-2 if programming language:
-	3 print("🐲Python, c and java")
+if programming_language:
+    print("🐲Python, c and java")
 	
 ``` 
  
