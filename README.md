@@ -53,6 +53,7 @@ if programming_language:
  
  ``` python
 cybersecurity_activities = True
+
 if cybersecurity_activities:
  	      print("👨🏾‍💻Sometimes I work with exploits to find and report bugs👨🏾‍💻")
 ```
