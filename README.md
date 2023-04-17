@@ -43,9 +43,9 @@ if This_drives_me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+I+am+an+enthusiastic,+researcher+and+programmer.)](https://git.io/typing-svg)
 
 ``` python
-programming_language = True
+Programming_language = True
 
-if programming_language:
+if Programming_language:
     print("🐲Python, c and java")
 	
 ``` 
