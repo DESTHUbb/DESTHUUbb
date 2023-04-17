@@ -42,7 +42,7 @@ BIO
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+I+am+an+enthusiastic,+researcher+and+programmer.)](https://git.io/typing-svg)
 ``` python
-1 programming language = true
+1 programming language = True
 
 2 if programming language:
 	3 print("🐲Python, c and java")
