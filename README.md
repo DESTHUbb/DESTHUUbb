@@ -33,14 +33,15 @@ if I_introduce_myself:
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+My+name+is+Alex.)](https://git.io/typing-svg)
  
  ``` python
-motivation = True
+This_drives_me = True
 
-if motivation:
+if This_drives_me:
 	print("I am an enthusiastic researcher and programmer")
 	
 ``` 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+I+am+an+enthusiastic,+researcher+and+programmer.)](https://git.io/typing-svg)
+
 ``` python
 programming_language = True
 
