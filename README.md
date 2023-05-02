@@ -99,9 +99,8 @@ if Cybersecurity_activities:
 	
   <img align="center" alt="Rafa-Csharp" height="90" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
 	
-  <img align="center" alt="Rafa-Csharp" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-	
-          
+ 
+
 
 # 💻🅾🆂 🅰🅽🅳 🅳🅸🆂🆃🆁🅾🆂 <img src="https://user-images.githubusercontent.com/90658763/231512878-42d7b479-60cf-45d5-b9b6-2d3239bd10f3.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
