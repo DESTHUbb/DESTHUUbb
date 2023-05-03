@@ -66,11 +66,19 @@ if Cybersecurity_activities:
 <div align="center">
   
   <a href="https://github.com/DESTHUbb">
+	  
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DESTHUbb&layout=compact&langs_count=7&theme=aura"/>
 	  
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESTHUbb&layout=compact"/>
 
-	
+	  
+	  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DE
+	  
+	  
+	  [![Alex's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DESTHUbb&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Alex's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DESTHUbb&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/DESTHUbb/github-readme-stats)
 	  
 </div>
 	
