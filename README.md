@@ -71,10 +71,6 @@ if Cybersecurity_activities:
 	  
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESTHUbb&layout=compact"/>
 	  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/DESTHUbb/github-readme-stats)
-	  
 </div>
 	
 <p align='right'>
