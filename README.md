@@ -71,8 +71,7 @@ if Cybersecurity_activities:
 	  
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESTHUbb&layout=compact"/>
 	  
-https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-	  
+
 	  
 	  [![Alex's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DESTHUbb&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 				   
