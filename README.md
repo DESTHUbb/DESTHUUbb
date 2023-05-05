@@ -81,7 +81,7 @@ if Cybersecurity_activities:
 
 # 📊 MY STATS
 <details>
-<summary>Click here</summary>
+<summary>Click to see</summary>
 <div align="center">
   
   <a href="https://github.com/DESTHUbb">
