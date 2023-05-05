@@ -159,14 +159,3 @@ if Cybersecurity_activities:
 
 <a href="https://discord.gg/Destikaa17 #0642" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 
-
-  
-<details>
-<summary>📊 MY GH STATS</summary>
-</br>
-<p align="center">
-  <img style="width: 43%; padding: 0px;" src="https://github-readme-stats.vercel.app/api?username=DESTHUbb&show_icons=true&theme=radical&hide_border=true" alt="dubisdev stats" />
-<img style="width: 43%; padding: 0px" src="https://github-readme-streak-stats.herokuapp.com/?user=DESTHUbb&theme=radical&hide_border=true" alt="Github Streak" />
-<img style="width: 43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESTHUbb&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</details>
-
