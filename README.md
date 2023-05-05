@@ -30,7 +30,7 @@ if I_introduce_myself:
   
   ``` 
   <details>
-<summary>DEBUG</summary>
+<summary>Click to run</summary>
 	
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+My+name+is+Alex.)](https://git.io/typing-svg)
  
