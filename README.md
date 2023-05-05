@@ -125,7 +125,7 @@ if Cybersecurity_activities:
 # 💻🅾🆂 🅰🅽🅳 🅳🅸🆂🆃🆁🅾🆂 <img src="https://user-images.githubusercontent.com/90658763/231512878-42d7b479-60cf-45d5-b9b6-2d3239bd10f3.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <details>
-<summary>Click here</summary>
+<summary>Click to see</summary>
 	
  <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
  <img  align="left" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
