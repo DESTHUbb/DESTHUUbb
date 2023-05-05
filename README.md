@@ -78,7 +78,6 @@ if Cybersecurity_activities:
 <p align='right'>
 
 # 💻👨🏾‍💻⌨️️ L̙͕͚a͚̝͔n͓͎͜g̞͍͙u͔͙͎a̻̼͙g̡̫͔e̡̝̼s̢̢̙ ​​&̦͚̺ s̙͔͍h̫̦͓e̟͖͔l̘͚l̡̞s͉͖͎<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<details>
 	
 <p align='right'>
 
@@ -108,6 +107,9 @@ if Cybersecurity_activities:
 
 # 💻🅾🆂 🅰🅽🅳 🅳🅸🆂🆃🆁🅾🆂 <img src="https://user-images.githubusercontent.com/90658763/231512878-42d7b479-60cf-45d5-b9b6-2d3239bd10f3.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
+<details>
+<summary>Click here</summary>
+	
  <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
  <img  align="left" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
  <img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
@@ -119,6 +121,7 @@ if Cybersecurity_activities:
 </div></br>
 
 #  Activity graph <img src="https://user-images.githubusercontent.com/90658763/231519284-e9f84446-1ef3-4be9-9813-303976c57317.gif" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
  [![DESTHUbb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DESTHUbb&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 	
  
