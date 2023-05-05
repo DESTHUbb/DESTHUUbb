@@ -72,8 +72,12 @@ if Cybersecurity_activities:
  	      print("👨🏾‍💻Sometimes I work with exploits to find and report bugs👨🏾‍💻")
 ```
 
-
+   <details>
+<summary>DEBUG</summary>
+	
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+👨🏾‍💻+Sometimes+I+work+with+exploits+to+find+and+report+bugs👨🏾‍💻)](https://git.io/typing-svg)
+
+</details>
 
 # 📊 MY STATS
 <details>
