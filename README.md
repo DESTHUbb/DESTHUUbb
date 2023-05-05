@@ -43,9 +43,9 @@ if This_drives_me:
 	print("I am an enthusiastic researcher and programmer")
 	
 ``` 
-
-
-
+  <details>
+<summary>DEBUG</summary>
+	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+I+am+an+enthusiastic,+researcher+and+programmer.)](https://git.io/typing-svg)
 
 </details>
