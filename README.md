@@ -57,9 +57,14 @@ if Programming_language:
     print("🐲Python, c and java")
 	
 ``` 
- 
+   <details>
+<summary>DEBUG</summary>
+	
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+🐲+Python+c++and+java)](https://git.io/typing-svg)
- 
+
+</details>
+
+	
  ``` python
 Cybersecurity_activities = True
 
