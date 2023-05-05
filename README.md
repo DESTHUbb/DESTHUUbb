@@ -75,11 +75,11 @@ if Cybersecurity_activities:
 	  
 </div>
 </details>
-	
 <p align='right'>
 
 # 💻👨🏾‍💻⌨️️ L̙͕͚a͚̝͔n͓͎͜g̞͍͙u͔͙͎a̻̼͙g̡̫͔e̡̝̼s̢̢̙ ​​&̦͚̺ s̙͔͍h̫̦͓e̟͖͔l̘͚l̡̞s͉͖͎<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
+<details>
+	
 <p align='right'>
 
 
