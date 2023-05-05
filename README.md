@@ -58,7 +58,7 @@ if Programming_language:
 	
 ``` 
    <details>
-<summary>DEBUG</summary>
+<summary>Click to run</summary>
 	
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+🐲+Python+c++and+java)](https://git.io/typing-svg)
 
