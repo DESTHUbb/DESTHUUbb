@@ -44,7 +44,7 @@ if This_drives_me:
 	
 ``` 
   <details>
-<summary>DEBUG</summary>
+<summary>Click to run</summary>
 	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+I+am+an+enthusiastic,+researcher+and+programmer.)](https://git.io/typing-svg)
 
