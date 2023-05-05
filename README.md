@@ -62,8 +62,9 @@ if Cybersecurity_activities:
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+👨🏾‍💻+Sometimes+I+work+with+exploits+to+find+and+report+bugs👨🏾‍💻)](https://git.io/typing-svg)
 
+# 📊 MY GH STATS
 <details>
-<summary>📊 MY GH STATS</summary>
+<summary>Click here</summary>
 <div align="center">
   
   <a href="https://github.com/DESTHUbb">
