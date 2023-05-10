@@ -91,7 +91,7 @@ if Cybersecurity_activities:
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESTHUbb&layout=compact&theme=radical&hide_border=true"/>
 	  
 	  
-<img height="200em" src="https://raw.githubusercontent.com/DESTHUbb/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg"/>
+<img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DESTHUbb&theme=2077"/>
 	  
 
 </div>
