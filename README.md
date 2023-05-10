@@ -90,8 +90,16 @@ if Cybersecurity_activities:
 	  
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESTHUbb&layout=compact&theme=radical&hide_border=true"/>
 	  
+	  
+<img height="200em" src="https://raw.githubusercontent.com/DESTHUbb/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg"/>
+	  
+
 </div>
 </details>
+	
+	
+	[![](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+	
 <p align='right'>
 
 # 💻👨🏾‍💻⌨️️ L̙͕͚a͚̝͔n͓͎͜g̞͍͙u͔͙͎a̻̼͙g̡̫͔e̡̝̼s̢̢̙ ​​&̦͚̺ s̙͔͍h̫̦͓e̟͖͔l̘͚l̡̞s͉͖͎<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
