@@ -83,7 +83,7 @@ if Cybersecurity_activities:
 
 # 📊 MY STATS
 
-<img  align="right" alt="Rafa-Csharp" height="500" width="200" src="https://github.com/DESTHUbb/DESTHUbb/assets/90658763/9aa2c4f9-11c7-4a17-8f73-0c375c4aded8)">
+<img  align="right" alt="Rafa-Csharp" height="800" width="200" src="https://github.com/DESTHUbb/DESTHUbb/assets/90658763/9aa2c4f9-11c7-4a17-8f73-0c375c4aded8)">
 
 <details>
 <summary>Click to see</summary>
