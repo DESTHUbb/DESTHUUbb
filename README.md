@@ -125,8 +125,7 @@ if Cybersecurity_activities:
   <img align="center" alt="Rafa-Csharp" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 	
   <img align="center" alt="Rafa-Csharp" height="90" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
-	
-</details>
+
  
 
 
