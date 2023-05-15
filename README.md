@@ -76,8 +76,10 @@ if Cybersecurity_activities:
 <summary>Click to run</summary>
 	
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+👨🏾‍💻+Sometimes+I+work+with+exploits+to+find+and+report+bugs👨🏾‍💻)](https://git.io/typing-svg)
-
+	
 </details>
+
+<img  align="right" alt="Rafa-Csharp" height="200" width="400" src="https://github.com/DESTHUbb/DESTHUbb/assets/90658763/e8ac10ed-45cc-46f3-8614-01dfd5a710ac">
 
 # 📊 MY STATS
 <details>
