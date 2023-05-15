@@ -26,7 +26,7 @@ BIO
 	
 </p>
 
-<h1 align="left">
+<div align="left">
 	
 <details>
 <summary>Touch to see my skills</summary>
@@ -87,7 +87,8 @@ if Cybersecurity_activities:
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+👨🏾‍💻+Sometimes+I+work+with+exploits+to+find+and+report+bugs👨🏾‍💻)](https://git.io/typing-svg)
 	
 </details>
-</h1>
+</div>
+
 	
 </details>
 
