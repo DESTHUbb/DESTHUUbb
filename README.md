@@ -18,10 +18,10 @@ BIO
 
 </div>
 
-<img  align="left" alt="Rafa-Csharp" height="700" width="200" src="https://github.com/DESTHUbb/DESTHUbb/assets/90658763/e9cbb660-098b-4b94-81ae-65dbcb6d9592)">
+<img  align="right" alt="Rafa-Csharp" height="700" width="200" src="https://github.com/DESTHUbb/DESTHUbb/assets/90658763/e9cbb660-098b-4b94-81ae-65dbcb6d9592)">
 
 	
-  <p align="left"> 
+  <p align="right"> 
   <img src="https://profile-counter.glitch.me/ DESTHUbb/count.svg" />
 	
 </p>
