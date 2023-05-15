@@ -18,16 +18,16 @@ BIO
 
 </div>
 
-<img  align="right" alt="Rafa-Csharp" height="700" width="200" src="https://github.com/DESTHUbb/DESTHUbb/assets/90658763/e9cbb660-098b-4b94-81ae-65dbcb6d9592)">
+<img  align="right" alt="Rafa-Csharp" height="700" width="100" src="https://github.com/DESTHUbb/DESTHUbb/assets/90658763/e9cbb660-098b-4b94-81ae-65dbcb6d9592)">
 
-
-<details>
-<summary>Touch to see my skills</summary>
 	
   <p align="left"> 
   <img src="https://profile-counter.glitch.me/ DESTHUbb/count.svg" />
 	
 </p>
+
+<details>
+<summary>Touch to see my skills</summary>
 
 ``` python
 I_introduce_myself = True
@@ -84,6 +84,7 @@ if Cybersecurity_activities:
 	
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=>>>+👨🏾‍💻+Sometimes+I+work+with+exploits+to+find+and+report+bugs👨🏾‍💻)](https://git.io/typing-svg)
 	
+</details>
 </details>
 
 <img  align="center" alt="Rafa-Csharp" height="200" width="400" src="https://github.com/DESTHUbb/DESTHUbb/assets/90658763/e8ac10ed-45cc-46f3-8614-01dfd5a710ac">
