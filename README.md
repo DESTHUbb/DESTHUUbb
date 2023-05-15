@@ -23,7 +23,7 @@ BIO
 <img  align="right" alt="Rafa-Csharp" height="700" width="200" src="https://github.com/DESTHUbb/DESTHUbb/assets/90658763/e35e9ce7-a467-426c-bb5c-da9f98e1a3f5)">
 
 
-  <p align="right"> 
+  <p align="center"> 
   <img src="https://profile-counter.glitch.me/ DESTHUbb/count.svg" />
 	
 </p>
