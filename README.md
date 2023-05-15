@@ -21,7 +21,9 @@ BIO
 <img  align="right" alt="Rafa-Csharp" height="700" width="200" src="https://github.com/DESTHUbb/DESTHUbb/assets/90658763/e9cbb660-098b-4b94-81ae-65dbcb6d9592)">
 
 
-
+<details>
+<summary>Touch to see my skills</summary>
+	
   <p align="left"> 
   <img src="https://profile-counter.glitch.me/ DESTHUbb/count.svg" />
 	
@@ -77,6 +79,9 @@ if Cybersecurity_activities:
  	      print("👨🏾‍💻Sometimes I work with exploits to find and report bugs👨🏾‍💻")
 ```
 
+</details>
+	
+	
    <details>
 <summary>Click to run</summary>
 	
