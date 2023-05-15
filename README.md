@@ -96,13 +96,15 @@ if Cybersecurity_activities:
 
 </div>
 </details>
-	
+
 <p align='right'>
 
 # 💻👨🏾‍💻⌨️️ L̙͕͚a͚̝͔n͓͎͜g̞͍͙u͔͙͎a̻̼͙g̡̫͔e̡̝̼s̢̢̙ ​​&̦͚̺ s̙͔͍h̫̦͓e̟͖͔l̘͚l̡̞s͉͖͎<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 	
 <p align='right'>
-
+	
+ <details>
+<summary>Click to run</summary>
 
 <div style="display: inline_block"><br>
 
@@ -124,6 +126,7 @@ if Cybersecurity_activities:
 	
   <img align="center" alt="Rafa-Csharp" height="90" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
 	
+</details>
  
 
 
