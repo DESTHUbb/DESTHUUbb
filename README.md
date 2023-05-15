@@ -17,6 +17,9 @@ BIO
 </h1>
 
 </div>
+
+<img  align="right" alt="Rafa-Csharp" height="700" width="200" src="https://github.com/DESTHUbb/DESTHUbb/assets/90658763/9aa2c4f9-11c7-4a17-8f73-0c375c4aded8)">
+
   <p align="left"> 
   <img src="https://profile-counter.glitch.me/ DESTHUbb/count.svg" />
 	
@@ -82,9 +85,6 @@ if Cybersecurity_activities:
 <img  align="center" alt="Rafa-Csharp" height="200" width="400" src="https://github.com/DESTHUbb/DESTHUbb/assets/90658763/e8ac10ed-45cc-46f3-8614-01dfd5a710ac">
 
 # 📊 MY STATS
-
-<img  align="right" alt="Rafa-Csharp" height="700" width="200" src="https://github.com/DESTHUbb/DESTHUbb/assets/90658763/9aa2c4f9-11c7-4a17-8f73-0c375c4aded8)">
-
 <details>
 <summary>Click to see</summary>
 <div align="center">
