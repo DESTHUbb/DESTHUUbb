@@ -77,10 +77,7 @@ Cybersecurity_activities = True
 
 if Cybersecurity_activities:
  	      print("👨🏾‍💻Sometimes I work with exploits to find and report bugs👨🏾‍💻")
-```
-
-</details>
-	
+```	
 	
    <details>
 <summary>Click to run</summary>
