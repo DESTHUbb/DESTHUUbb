@@ -105,7 +105,9 @@ if Cybersecurity_activities:
 	
 
 <div style="display: inline_block"><br>
-
+	
+ <details>
+<summary>Click to run</summary>
   <img align="center" alt="Rafa-Js" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img align="center" alt="Rafa-Ts" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -123,7 +125,7 @@ if Cybersecurity_activities:
   <img align="center" alt="Rafa-Csharp" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 	
   <img align="center" alt="Rafa-Csharp" height="90" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
-
+</details>
  
 
 
