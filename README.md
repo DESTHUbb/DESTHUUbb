@@ -103,8 +103,6 @@ if Cybersecurity_activities:
 	
 <p align='right'>
 	
- <details>
-<summary>Click to run</summary>
 
 <div style="display: inline_block"><br>
 
