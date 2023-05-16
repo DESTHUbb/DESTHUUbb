@@ -30,6 +30,8 @@ BIO
 
 <div align="left">
 	
+# 💡 MY SILLS
+	
 <details>
 <summary>Touch to see my skills</summary>
 
