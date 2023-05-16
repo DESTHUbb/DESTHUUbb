@@ -146,7 +146,6 @@ if Cybersecurity_activities:
 	 
  <img align="center" alt="Rafa-Csharp" height="80" width="90" src="https://github.com/DESTHUbb/DESTHUbb/assets/90658763/25c51800-6cec-40ea-8105-c794ccf1003e" />	
 	 
-  <img align="center" alt="Rafa-Csharp" height="90" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
 </details>
 
 
