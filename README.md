@@ -192,10 +192,6 @@ if Cybersecurity_activities:
 	
 <div align="right">
 	
-<a href="https://replit.com/@DanE16"><img align="center" alt="Rafa-Csharp" height="80" width="80" src="https://github.com/DESTHUbb/DESTHUbb/assets/90658763/d5c45781-3dfc-48e5-85ac-71fe1c299158" target="_white"></a>		
-
-![image](https://github.com/DESTHUbb/DESTHUbb/assets/90658763/cebf6036-0974-438b-b467-daa38b9fdc68)
+<a href="https://replit.com/@DanE16"><img align="center" alt="https://replit.com/@DanE16" height="80" width="80" src="https://replit.com/@DanE16" target="_white"></a>	
 	
-[![Asyncio](https://github.com/DESTHUbb/DESTHUbb/assets/90658763/cebf6036-0974-438b-b467-daa38b9fdc68)](https://replit.com/@DanE16)
-
 </details>
