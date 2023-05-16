@@ -34,7 +34,7 @@ BIO
 
 	
 <details>
-<summary>Touch to see my skills</summary>
+<summary>TOUCH TO SEE MY PRESENTATION</summary>
 
 ``` python
 I_introduce_myself = True
