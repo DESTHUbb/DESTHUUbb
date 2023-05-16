@@ -30,7 +30,7 @@ BIO
 
 <div align="left">
 	
-# I INTRODUCE MYSELF:
+# 🤝 I INTRODUCE MYSELF:
 
 	
 <details>
