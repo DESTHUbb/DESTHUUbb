@@ -196,6 +196,6 @@ if Cybersecurity_activities:
 
 ![image](https://github.com/DESTHUbb/DESTHUbb/assets/90658763/cebf6036-0974-438b-b467-daa38b9fdc68)
 	
-	[![Asyncio](https://github.com/DESTHUbb/DESTHUbb/assets/90658763/cebf6036-0974-438b-b467-daa38b9fdc68.png)](https://replit.com/@DanE16)
+	[![Asyncio](https://github.com/DESTHUbb/DESTHUbb/assets/90658763/cebf6036-0974-438b-b467-daa38b9fdc68)](https://replit.com/@DanE16)
 
 </details>
