@@ -190,4 +190,8 @@ if Cybersecurity_activities:
 
 <a href="https://discord.gg/Destikaa17 #0642" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 	
+<div align="right">
+	
+<a href="https://replit.com/@DanE16"><img align="center" alt="Rafa-Csharp" height="80" width="80" src="https://github.com/DESTHUbb/DESTHUbb/assets/90658763/d5c45781-3dfc-48e5-85ac-71fe1c299158" target="_white"></a>		
+
 </details>
