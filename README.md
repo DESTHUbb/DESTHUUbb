@@ -178,6 +178,9 @@ if Cybersecurity_activities:
 
 ![cotulemre-retro](https://user-images.githubusercontent.com/90658763/185743139-ff92651a-f727-4bd1-be2f-1ae318d62e98.gif)
 	
+<details>
+<summary>You can find me too</summary>
+	
 <div align="right">
 
 <a href="mailto:wagebo3208@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_white"></a>	
@@ -186,4 +189,5 @@ if Cybersecurity_activities:
 <div align="right">
 
 <a href="https://discord.gg/Destikaa17 #0642" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-
+	
+</details>
