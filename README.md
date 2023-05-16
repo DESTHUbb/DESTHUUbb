@@ -30,7 +30,8 @@ BIO
 
 <div align="left">
 	
-# 💡 MY SKILLS
+# I INTRODUCE MYSELF:
+
 	
 <details>
 <summary>Touch to see my skills</summary>
