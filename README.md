@@ -166,9 +166,8 @@ if Cybersecurity_activities:
 </div></br>
 
 #  Activity graph <img src="https://user-images.githubusercontent.com/90658763/231519284-e9f84446-1ef3-4be9-9813-303976c57317.gif" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
- [![DESTHUbb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DESTHUbb&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 	
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DESTHUbb&bg_color=000000&color=29ff1a&line=8733cc&point=04ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)	
  
 <h3 align="center">
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DESTHUbb&theme=midnight-purple&hide_border=true&background=#0d1117&currStreakNum=00DD24">	
