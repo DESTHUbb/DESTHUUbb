@@ -106,7 +106,7 @@ if Cybersecurity_activities:
   
   <a href="https://github.com/DESTHUbb">
 	  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DESTHUbb&layout=compact&langs_count=7&theme=aura"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DESTHUbb&layout=compact&langs_count=7&theme=tokyonight"/>
 	  
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESTHUbb&layout=compact&theme=radical&hide_border=true"/>
 	  
