@@ -24,8 +24,7 @@ BIO
 
 
   <p align="center"> 
-  <img src="https://profile-counter.glitch.me/ DESTHUbb/count.svg" />
-	
+	<img src = "https://visits.dashroshan.com/Cdq5ki5Oij5PYNgE?countBGColor=A2C93E" height = 30px/> 
 </p>
 
 <div align="left">
